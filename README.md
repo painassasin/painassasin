@@ -6,7 +6,7 @@
   
 <h3 align="center">  
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=painassasin&show_icons=true&theme=material-palenight)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=painassasin&show_icons=true&show=reviews&theme=city_lights&rank_icon=github)
   
 </h3>
 
